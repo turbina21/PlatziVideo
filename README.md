@@ -1,2 +1,2 @@
 # PlatziVideo
-Video platform developed in JS, complete project course of JavaScript School
+Video platform developed with MERN stack, complete project course of JavaScript School by Platzi
